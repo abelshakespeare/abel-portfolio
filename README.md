@@ -3,9 +3,9 @@
   <br />
   <br />
 
-  <h2 align="center">Abel - Data Analytics Portfolio</h2>
+  <h2 align="center">Abel's Portfolio</h2>
 
-  A fully responsive personal portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Hello, I'm Abel, a recent graduate passionate about harnessing the power of data to revolutionize healthcare. With a degree in computer science and a focus on healthcare/clinical data analytics, <br />I'm eager to apply my skills in data analysis, machine learning, and data visualization to improve patient care, enhance healthcare outcomes, and optimize operations within the healthcare industry.
 
   <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
 
