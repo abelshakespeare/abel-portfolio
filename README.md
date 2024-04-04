@@ -28,15 +28,15 @@
 - **Tableau**: Competent in building interactive data dashboards
 - **Power BI**: Basic proficiency in data modeling and reporting
 
-## Machine Learning & Data Science
-
-- **scikit-learn** (Python library): Experienced in building machine learning models
-- **TensorFlow**: Basic understanding of neural networks and deep learning
-- **Statistical Analysis**: Solid grasp of statistical tests and data exploration techniques
-
 ## Soft Skills
 
 - **Problem-Solving**: Excellent at breaking down complex problems and devising effective solutions
 - **Communication**: Strong written and verbal communication skills, with experience presenting data insights
 - **Teamwork**: Collaborative team player with experience working on group projects
 - **Lifelong Learning**: Committed to continuous learning and professional development
+
+## Machine Learning & Data Science
+
+- **scikit-learn** (Python library): Experienced in building machine learning models
+- **TensorFlow**: Basic understanding of neural networks and deep learning
+- **Statistical Analysis**: Solid grasp of statistical tests and data exploration techniques
