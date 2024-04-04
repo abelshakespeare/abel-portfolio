@@ -7,42 +7,42 @@
 
   Hello, I'm Abel, a recent graduate passionate about harnessing the power of data to revolutionize healthcare. With a degree in computer science and a focus on healthcare/clinical data analytics, <br />I'm eager to apply my skills in data analysis, machine learning, and data visualization to improve patient care, enhance healthcare outcomes, and optimize operations within the healthcare industry.
 
-  <a href="https://codewithsadee.github.io/julia-portfolio/"><strong>➥ Live Demo</strong></a>
+  <a href="https://www.linkedin.com/mynetwork/"><strong>➥ LinkedIn</strong></a>
 
 </div>
 
 <br />
 
-### Demo Screeshots
+# Relevant Skills
 
-![Julia Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+## Programming Languages
 
-### Prerequisites
+- **Python**: Advanced
+- **R**: Advanced
+- **SQL**: Advanced
 
-Before you begin, ensure you have met the following requirements:
+## Data Analysis & Visualization
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+- **Pandas** (Python library): Proficient in data manipulation and analysis
+- **ggplot2** (R package): Skilled in creating complex visualizations
+- **Tableau**: Competent in building interactive data dashboards
+- **Power BI**: Basic proficiency in data modeling and reporting
 
-### Run Locally
+## Machine Learning & Data Science
 
-To run **Julia** locally, run this command on your git bash:
+- **scikit-learn** (Python library): Experienced in building machine learning models
+- **TensorFlow**: Basic understanding of neural networks and deep learning
+- **Statistical Analysis**: Solid grasp of statistical tests and data exploration techniques
 
-Linux and macOS:
+## Tools & Platforms
 
-```bash
-sudo git clone https://github.com/codewithsadee/julia-portfolio.git
-```
+- **Git**: Competent in version control and collaboration
+- **Jupyter Notebooks**: Proficient in documenting data analysis workflows
+- **Linux**: Basic command line operations and environment management
 
-Windows:
+## Soft Skills
 
-```bash
-git clone https://github.com/codewithsadee/julia-portfolio.git
-```
-
-### Contact
-
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
-
-### License
-
-This project is **free to use** and does not contains any license.
+- **Problem-Solving**: Excellent at breaking down complex problems and devising effective solutions
+- **Communication**: Strong written and verbal communication skills, with experience presenting data insights
+- **Teamwork**: Collaborative team player with experience working on group projects
+- **Lifelong Learning**: Committed to continuous learning and professional development
