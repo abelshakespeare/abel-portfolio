@@ -34,12 +34,6 @@
 - **TensorFlow**: Basic understanding of neural networks and deep learning
 - **Statistical Analysis**: Solid grasp of statistical tests and data exploration techniques
 
-## Tools & Platforms
-
-- **Git**: Competent in version control and collaboration
-- **Jupyter Notebooks**: Proficient in documenting data analysis workflows
-- **Linux**: Basic command line operations and environment management
-
 ## Soft Skills
 
 - **Problem-Solving**: Excellent at breaking down complex problems and devising effective solutions
