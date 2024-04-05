@@ -1,9 +1,6 @@
 <br />
 <p align="center">
     <img src="./assets/images/logo-light.svg" width="350px">
-  </a>
-    <img src="./.github/images/logo-dark.svg" width="350px">
-  </a>
 </p>
 <br />
 
