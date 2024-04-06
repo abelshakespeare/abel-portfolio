@@ -1,9 +1,4 @@
-<div align="center">
-
-  <br />
-  <br />
-
-  <h2 align="center">Abel's Portfolio</h2>
+<h2 align="center">Abel's Portfolio</h2>
 
   Hello, I'm Abel, a recent graduate passionate about harnessing the power of data to revolutionize healthcare. With a degree in computer science and a focus on healthcare/clinical data analytics, <br />I'm eager to apply my skills in data analysis, machine learning, and data visualization to improve patient care, enhance healthcare outcomes, and optimize operations within the healthcare industry.
 
