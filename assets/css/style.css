@@ -372,13 +372,13 @@ body.nav-active { overflow: hidden; }
   gap: 50px;
 }
 
-.hero-banner-revised {
+.hero-banner {
   position: relative;
   max-width: max-content;
   margin-inline: auto;
 }
 
-.hero-banner-revised .w-100 {
+.hero-banner .w-100 {
   mask-image: url("../images/Blob.svg");
   -webkit-mask-image: url("../images/Blog.svg");
   mask-repeat: no-repeat;
